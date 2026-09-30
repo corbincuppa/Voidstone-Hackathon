@@ -5,6 +5,9 @@ USQUESTION = input("Describe your problem: ")
 
 # FUNCTIONS
 
+def ask_question():
+    USQUESTION
+
 def ai(user_input: str):
     """
     This function take the question of a user literally represented as
